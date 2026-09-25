@@ -35,4 +35,5 @@ profit, orders, payment methods, fulfilment methods, categories and order status
 - Order Status Analysis
 
 ## Dashboard Preview
+Amazon Dashboard.png
 
