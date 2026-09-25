@@ -34,7 +34,5 @@ profit, orders, payment methods, fulfilment methods, categories and order status
 - Profit by Fulfilment Method
 - Order Status Analysis
 
-## Dashboard Preview
-![Amazon India Dashboard](Amazon_Dashboard.png)
 
 
